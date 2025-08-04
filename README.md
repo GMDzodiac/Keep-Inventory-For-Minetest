@@ -1,3 +1,5 @@
+CLEAN DOWNLOAD: https://www.mediafire.com/file/f6ov6efluv290fn/keepinventory.zip/file
+
 hey, so here is how to download this shit
 
 1. download the zip and unpack it
